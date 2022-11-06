@@ -75,7 +75,7 @@ public class ValidateHomepageLinks {
 //		sa.assertTrue(respCode>400,"This is broken link : "+link.getText()+" with code "+respCode);*/
 //			sa.assertAll();	
 //	}
-//	}
+	}
 	
 
 	
